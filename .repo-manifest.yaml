@@ -17,7 +17,7 @@ repo:
   type: "application"
 
   # One-sentence purpose statement. Claude reads this to orient.
-  purpose: "TODO — fill in purpose"
+  purpose: "Claude Code plugin (CDCC) enforcing D2R plans structurally via hooks — refuses silent model substitution, skill-skipping, gate-skipping and plan drift."
 
   # GitHub org or owner: Martinez-Methods | nerdykrystal
   org: "nerdykrystal"
